@@ -19,14 +19,6 @@ const StoryCard = ({ color, title, icon, subtitle }) => (
   </div>
 );
 
-const slideShow = () => {
-  return (
-    <div id="cf">
-      <img class="bottom" src={bayc} />
-      <img class="top" src={image1} />
-    </div>
-  );
-};
 
 const Home = () => {
   return (
