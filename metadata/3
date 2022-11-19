@@ -1,0 +1,31 @@
+{
+    "name": "Frame 3",
+    "description": "Blurry Mocha",
+    "image": "ipfs://QmPfnS41BsQxsX98S5S6x4pSZWhhkNAHhFHeNuDbmMYa7r",
+    "attributes": [
+      {
+        "trait_type": "Power",
+        "value": "3",
+        "max_value": 10
+      },
+      {
+        "trait_type": "Color",
+        "value": "Purple"
+      },
+      {
+            "trait_type": "Strength",
+            "value": 10,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Speed",
+            "value": 2,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Jump",
+            "value": 6,
+            "max_value": 10
+        }
+    ]
+  }

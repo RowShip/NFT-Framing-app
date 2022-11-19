@@ -1,0 +1,31 @@
+{
+    "name": "Frame 4",
+    "description": "Main Pine",
+    "image": "ipfs://QmQP6XFfnE5aap3SUGuwxR1Q2RjRzX8mLoeruXCoukpdTc",
+    "attributes": [
+      {
+        "trait_type": "Power",
+        "value": "8",
+        "max_value": 10
+      },
+      {
+        "trait_type": "Color",
+        "value": "Purple"
+      },
+      {
+            "trait_type": "Strength",
+            "value": 1,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Speed",
+            "value": 7,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Jump",
+            "value": 9,
+            "max_value": 10
+        }
+    ]
+  }

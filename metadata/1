@@ -1,0 +1,31 @@
+{
+    "name": "Frame 1",
+    "description": "Short Daisy",
+    "image": "ipfs://QmT8y4mBm22A5CeYFZcXi3k3ccFTyuNVxn5DVXmCRPZ7GR",
+    "attributes": [
+      {
+        "trait_type": "Power",
+        "value": "7",
+        "max_value": 10
+      },
+      {
+        "trait_type": "Color",
+        "value": "Red"
+      },
+      {
+            "trait_type": "Strength",
+            "value": 4,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Speed",
+            "value": 3,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Jump",
+            "value": 1,
+            "max_value": 10
+        }
+    ]
+  }

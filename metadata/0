@@ -1,0 +1,31 @@
+{
+    "name": "Frame 0",
+    "description": "White Marble",
+    "image": "ipfs://Qmb6jRpx2JguVESpcmyrV5bTdLTviXXGAq7VFchmW4SPZr",
+    "attributes": [
+      {
+        "trait_type": "Power",
+        "value": "5",
+        "max_value": 10
+      },
+      {
+        "trait_type": "Color",
+        "value": "White"
+      },
+      {
+            "trait_type": "Strength",
+            "value": 7,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Speed",
+            "value": 9,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Jump",
+            "value": 10,
+            "max_value": 10
+        }
+    ]
+  }
